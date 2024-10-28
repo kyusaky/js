@@ -1,5 +1,4 @@
-// обращение к значению массива 
-// console.log(arrOne[0])
+
 "using srong";
 let my_array = [];
 for (let i = 1 ; i <= 1000; i++) {
